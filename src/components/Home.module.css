@@ -1,0 +1,28 @@
+.title{
+    font-family: sans-serif;
+    font-size: 4em;
+    text-align: center;
+    background-color: floralwhite;
+    color: goldenrod;
+    font-family: cursive;
+}
+
+.t1{
+    text-align: center;
+    padding-top: 20px;
+    background-color: bisque;
+    padding-bottom: 20px;
+    font-family: cursive;
+}
+
+.t2{
+    text-align: center;
+    padding-top: 20px;
+    background-color: bisque;
+    padding-bottom: 20px;
+}
+
+.t3{
+    font-size: 82px;
+}
+
